@@ -1,0 +1,14 @@
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\bin\Debug\netcoreapp3.1\OPD_23.exe
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\bin\Debug\netcoreapp3.1\OPD_23.deps.json
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\bin\Debug\netcoreapp3.1\OPD_23.runtimeconfig.json
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\bin\Debug\netcoreapp3.1\OPD_23.runtimeconfig.dev.json
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\bin\Debug\netcoreapp3.1\OPD_23.dll
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\bin\Debug\netcoreapp3.1\OPD_23.pdb
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\obj\Debug\netcoreapp3.1\OPD_23.csproj.AssemblyReference.cache
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\obj\Debug\netcoreapp3.1\OPD_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\obj\Debug\netcoreapp3.1\OPD_23.AssemblyInfoInputs.cache
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\obj\Debug\netcoreapp3.1\OPD_23.AssemblyInfo.cs
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\obj\Debug\netcoreapp3.1\OPD_23.csproj.CoreCompileInputs.cache
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\obj\Debug\netcoreapp3.1\OPD_23.dll
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\obj\Debug\netcoreapp3.1\OPD_23.pdb
+D:\Users\Ivan\Downloads\OPD-spring-2022-main (1)\OPD-spring-2022-main\OPD_23\obj\Debug\netcoreapp3.1\OPD_23.genruntimeconfig.cache
